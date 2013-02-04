@@ -1,9 +1,0 @@
-{application,enouk_cowboy,
-             [{description,[]},
-              {vsn,"1"},
-              {registered,[]},
-              {applications,[kernel,stdlib]},
-              {mod,{enouk_cowboy_app,[]}},
-              {env,[]},
-              {modules,[enouk_cowboy_app,enouk_cowboy_sup,
-                        enouk_cowboy_websocket]}]}.
